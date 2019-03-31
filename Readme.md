@@ -19,14 +19,14 @@ leveraging the security features provided by Google*
 
 [*[shiv.s\@lucideustech.com]{.underline}*](mailto:shiv.s@lucideustech.com)
 
-[![](media/image12.png){width="2.581136264216973in"
+[![](./myMediaFolder/media/image12.png){width="2.581136264216973in"
 height="0.8385422134733158in"}](http://lucideus.com/)
 
-[![](media/image2.png){width="0.28125in"
+[![](./myMediaFolder/media/image2.png){width="0.28125in"
 height="0.28125in"}](https://www.linkedin.com/in/shivsahni/)
-[![](media/image3.png){width="0.3281255468066492in"
+[![](./myMediaFolder/media/image3.png){width="0.3281255468066492in"
 height="0.3281255468066492in"}](https://security.stackexchange.com/users/159736/shiv-sahni)
-[![](media/image16.png){width="0.3402690288713911in"
+[![](./myMediaFolder/media/image16.png){width="0.3402690288713911in"
 height="0.2760422134733158in"}](https://twitter.com/shiv__sahni)
 
 Table of Contents
@@ -226,7 +226,7 @@ purposes but also for making financial transactions, medical assistance
 etc. which means that there is a flow of sensitive data on the
 underlying platform which has a significant requirement of security.
 
-![](media/image31.png){width="5.947916666666667in"
+![](./myMediaFolder/media/image31.png){width="5.947916666666667in"
 height="4.205143263342082in"}
 
 Exhibit 1
@@ -234,7 +234,7 @@ Exhibit 1
 *Source:
 [[Gartner]{.underline}](https://www.gartner.com/newsroom/id/3725117)^\[1\]^*
 
-![](media/image19.png){width="6.208333333333333in"
+![](./myMediaFolder/media/image19.png){width="6.208333333333333in"
 height="4.046824146981628in"}
 
 Exhibit 2
@@ -267,8 +267,8 @@ Android Software Stack
 The Android software stack is shown in Exhibit 3 and the same is
 explained below:
 
-![](media/image13.png){width="2.3202865266841646in" height="3.6475699912510935in"}![](media/image21.png){width="4.067708880139983in" height="3.5936931321084864in"}
-===================================================================================================================================================================
+![](./myMediaFolder/media/image13.png){width="2.3202865266841646in" height="3.6475699912510935in"}![](./myMediaFolder/media/image21.png){width="4.067708880139983in" height="3.5936931321084864in"}
+===================================================================================================================================================================================================
 
 Exhibit 3
 
@@ -333,7 +333,8 @@ application's code, resources etc.
 Exhibit 4 shows how Android application compilation and execution is
 different from a java application.
 
-![](media/image22.png){width="6.5in" height="3.486111111111111in"}
+![](./myMediaFolder/media/image22.png){width="6.5in"
+height="3.486111111111111in"}
 
 Exhibit 4
 
@@ -384,14 +385,14 @@ can get the following:
 -   Resources.arsc: It is a file that contains all the pre-compiled
     > resources.
 
-![](media/image5.png){width="4.723958880139983in"
+![](./myMediaFolder/media/image5.png){width="4.723958880139983in"
 height="0.9387357830271216in"}
 
 Exhibit 5
 
 *File type of APK*
 
-![](media/image28.png){width="6.354166666666667in"
+![](./myMediaFolder/media/image28.png){width="6.354166666666667in"
 height="3.2291666666666665in"}
 
 Exhibit 6
@@ -433,8 +434,8 @@ between application components. It can be used for communication between
 application components of same or different applications. It can be used
 to start an activity, service or for delivering broadcasts.
 
-![](media/image26.png){width="5.489583333333333in" height="3.4706474190726158in"}
-=================================================================================
+![](./myMediaFolder/media/image26.png){width="5.489583333333333in" height="3.4706474190726158in"}
+=================================================================================================
 
 Exhibit 7
 
@@ -467,7 +468,7 @@ using the security features properly. For instance: Using encryption for
 handling sensitive data will only solve the problem if it is implemented
 in a proper way by using secure algorithms, secure key management etc.
 
-![](media/image25.png){width="3.8987554680664918in"
+![](./myMediaFolder/media/image25.png){width="3.8987554680664918in"
 height="3.713542213473316in"}
 
 Exhibit 8
@@ -514,14 +515,15 @@ user id is *u0\_a167* which is equivalent to *10167*
 (10,000+offset\_167). Exhibit 10 shows the data directory for the
 application.
 
-![](media/image17.png){width="6.5in" height="1.2083333333333333in"}
+![](./myMediaFolder/media/image17.png){width="6.5in"
+height="1.2083333333333333in"}
 
 Exhibit 9
 
 *Application Sandbox in Android Platform*
 
- ![](media/image29.png){width="6.5in" height="2.1354166666666665in"}
---------------------------------------------------------------------
+ ![](./myMediaFolder/media/image29.png){width="6.5in" height="2.1354166666666665in"}
+------------------------------------------------------------------------------------
 
 Exhibit 10
 
@@ -689,7 +691,8 @@ Where each entry is defined below:
 > ***3003***: List of GIDs(Group IDs) that the application belong to,
 > such that each GID is typically linked with Android permission.
 
-![](media/image8.png){width="6.5in" height="0.9861111111111112in"}
+![](./myMediaFolder/media/image8.png){width="6.5in"
+height="0.9861111111111112in"}
 
 Exhibit 11
 
@@ -786,8 +789,8 @@ installed on the device.
     > system displays a dialog box for a user to select among various
     > application. The same is shown by Exhibit 12.
 
- ![](media/image27.png){width="2.26922353455818in" height="4.026042213473316in"}
---------------------------------------------------------------------------------
+ ![](./myMediaFolder/media/image27.png){width="2.26922353455818in" height="4.026042213473316in"}
+------------------------------------------------------------------------------------------------
 
 Exhibit 12
 
@@ -906,7 +909,8 @@ a serious software anomaly, since if exploited it can even allow an
 attacker to control the underlying process. Exhibit 13 shows the simple
 example of buffer overflow.
 
-![](media/image9.png){width="3.2916666666666665in" height="1.65625in"}
+![](./myMediaFolder/media/image9.png){width="3.2916666666666665in"
+height="1.65625in"}
 
 Exhibit 13
 
@@ -1077,19 +1081,21 @@ input message.
  
 -
 
-![](media/image4.png){width="3.8020833333333335in" height="2.65625in"}
+![](./myMediaFolder/media/image4.png){width="3.8020833333333335in"
+height="2.65625in"}
 
 Exhibit 14
 
 *Symmetric Key Cryptography*
 
-![](media/image1.png){width="3.8020833333333335in" height="2.65625in"}
+![](./myMediaFolder/media/image1.png){width="3.8020833333333335in"
+height="2.65625in"}
 
 Exhibit 15
 
 *Asymmetric Key Cryptography*
 
-![](media/image10.png){width="6.458333333333333in"
+![](./myMediaFolder/media/image10.png){width="6.458333333333333in"
 height="1.0729166666666667in"}
 
 Exhibit 16
@@ -1110,7 +1116,7 @@ the message is maintained.
 Exhibit 17 very well explains the mechanism of generation and
 verification of digital signatures.
 
-![](media/image32.png){width="6.5in" height="4.875in"}
+![](./myMediaFolder/media/image32.png){width="6.5in" height="4.875in"}
 
 Exhibit 17
 
@@ -1135,7 +1141,7 @@ keystores:
     > The application signed with release keystore can be uploaded on
     > application stores such as Google Play.
 
-![](media/image11.png){width="4.135416666666667in"
+![](./myMediaFolder/media/image11.png){width="4.135416666666667in"
 height="3.8541666666666665in"}
 
 Exhibit 18
@@ -1264,7 +1270,8 @@ generated for a given application could not be accessed by other
 application. The service runs as *Keystore* user and the concerned files
 are stored in */data/misc/keystore*.
 
-![](media/image20.png){width="6.28125in" height="4.1875in"}
+![](./myMediaFolder/media/image20.png){width="6.28125in"
+height="4.1875in"}
 
 Exhibit 19
 
@@ -1291,7 +1298,8 @@ Trustzone]{.underline}](https://www.arm.com/products/security-on-arm/trustzone)^
 This technology provides hardware features to create a secure
 environment separated from normal execution environment.
 
-![](media/image6.png){width="5.53125in" height="2.9583333333333335in"}
+![](./myMediaFolder/media/image6.png){width="5.53125in"
+height="2.9583333333333335in"}
 
 Exhibit 20
 
@@ -1329,7 +1337,7 @@ following meaning:
 
 -   *ZZZ* is alias name.
 
-![](media/image30.png){width="5.7088834208223975in"
+![](./myMediaFolder/media/image30.png){width="5.7088834208223975in"
 height="1.6510422134733158in"}
 
 Exhibit 21
@@ -1466,7 +1474,7 @@ whether the calling app is legitimate.
 
 The workflow involved in SafteyNet Attestation API is explained below.
 
-![](media/image18.png){width="5.885416666666667in"
+![](./myMediaFolder/media/image18.png){width="5.885416666666667in"
 height="3.4895833333333335in"}
 
 Exhibit 20
@@ -1492,7 +1500,8 @@ Exhibit 20
     > Web Signature). The following JWS excerpt shows the format of the
     > payload data:
 
-![](media/image23.png){width="6.375in" height="1.9583333333333333in"}
+![](./myMediaFolder/media/image23.png){width="6.375in"
+height="1.9583333333333333in"}
 
 Exhibit 22
 
@@ -1630,7 +1639,7 @@ safe browsing enabled web browsers displays a warning to inform users
 regarding the malicious web resource. The warning displayed is shown by
 Exhibit 22.
 
-![](media/image24.png){width="5.208333333333333in"
+![](./myMediaFolder/media/image24.png){width="5.208333333333333in"
 height="2.7708333333333335in"}
 
 Exhibit 23
@@ -1800,7 +1809,8 @@ obfuscated, developers must not hardcode the encryption keys since
 obfuscation only increases the analysis time and can be easily bypassed
 using dynamic instrumentation.
 
-![](media/image14.png){width="5.385416666666667in" height="2.53125in"}
+![](./myMediaFolder/media/image14.png){width="5.385416666666667in"
+height="2.53125in"}
 
 Exhibit 24
 
@@ -1870,7 +1880,7 @@ with the Android platform however, from Android 5.0
 Google seperated Webview from the core Android platform in order to aid
 separate security updates. It is shown by Exhibit 25.
 
-![](media/image7.png){width="2.7395833333333335in"
+![](./myMediaFolder/media/image7.png){width="2.7395833333333335in"
 height="1.9895833333333333in"}
 
 Exhibit 25
@@ -2015,8 +2025,8 @@ very well explained
 10 Things To Check Before Publishing The Application
 ----------------------------------------------------
 
-![](media/image15.png){width="5.010416666666667in" height="7.776903980752406in"}
-================================================================================
+![](./myMediaFolder/media/image15.png){width="5.010416666666667in" height="7.776903980752406in"}
+================================================================================================
 
 Exhibit 26
 
